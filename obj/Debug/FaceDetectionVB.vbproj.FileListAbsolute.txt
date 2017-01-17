@@ -1,0 +1,43 @@
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\Example.FaceDetectionVB.pdb
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.vbprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.Resources.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.vbproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\Example.FaceDetectionVB.pdb
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB\obj\Debug\FaceDetectionVB.Form1.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\Example.FaceDetectionVB.pdb
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\FaceDetectionVB.vbprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\FaceDetectionVB.Form1.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\FaceDetectionVB.Resources.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\FaceDetectionVB.vbproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\Example.FaceDetectionVB.exe.manifest
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\Example.FaceDetectionVB.application
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\Example.FaceDetectionVB.TrustInfo.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\Example.FaceDetectionVB.exe.manifest
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy\obj\Debug\Example.FaceDetectionVB.application
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\Example.FaceDetectionVB.pdb
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\FaceDetectionVB.vbprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\FaceDetectionVB.Form1.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\FaceDetectionVB.Resources.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\FaceDetectionVB.vbproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\Example.FaceDetectionVB.TrustInfo.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\Example.FaceDetectionVB.exe.manifest
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\Emgu.CV.Example\FaceDetectionVB - Copy - Copy\obj\Debug\Example.FaceDetectionVB.application
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\Example.FaceDetectionVB.exe.config
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\Example.FaceDetectionVB.exe
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\Example.FaceDetectionVB.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\Example.FaceDetectionVB.pdb
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\FaceDetectionVB.vbprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\FaceDetectionVB.Form1.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\FaceDetectionVB.Resources.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\FaceDetectionVB.vbproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\Example.FaceDetectionVB.TrustInfo.xml
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\Example.FaceDetectionVB.exe.manifest
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\WORKING_CRACK_DETECTION_LAST_RESERVE\obj\Debug\Example.FaceDetectionVB.application

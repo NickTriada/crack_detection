@@ -1,0 +1,5 @@
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\FaceDetectionVB - Copy - Copy\obj\x64\Debug\FaceDetectionVB.vbprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\FaceDetectionVB - Copy - Copy\obj\x64\Debug\FaceDetectionVB.Form1.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\FaceDetectionVB - Copy - Copy\obj\x64\Debug\FaceDetectionVB.Resources.resources
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\FaceDetectionVB - Copy - Copy\obj\x64\Debug\FaceDetectionVB.vbproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal-gpu 2.4.9.1847\bin\FaceDetectionVB - Copy - Copy\obj\x64\Debug\Example.FaceDetectionVB.xml
